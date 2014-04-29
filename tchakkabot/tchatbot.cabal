@@ -1,0 +1,19 @@
+name:                tchatbot
+version:             0.1.0.0
+-- synopsis:            
+-- description:         
+-- license:             
+license-file:        LICENSE
+author:              Tchakka Zulu
+maintainer:          tchakkazulu@gmail.com
+-- copyright:           
+category:            Web
+build-type:          Simple
+cabal-version:       >=1.8
+data-files:          rkol.fmt, rkol.cfg
+
+executable tchatbot
+  main-is:             tchatbotv2.hs
+  other-modules:       Poll, IRCBot, IRCBot.Whois, Formatter, Shoutcast.Fetch, Shoutcast.Fetch1, Shoutcast.Fetch2, Shoutcast.Formatter, Shoutcast.ServerStats, Paths_tchatbot
+  build-depends:       base ==4.5.*, containers, mtl, array, network, parsec ==3.*, regex-posix, tagsoup, hxt, HTTP, irc, simpleirc, bytestring, directory, aeson
+  hs-source-dirs:      src

@@ -1,0 +1,30 @@
+loggingin = "Yup."
+loginname = "Tchakka/q"
+challenge = challenge
+response = md5(md5(password) + ":" + challenge)
+
+/submitnewchat.php?playerid='+playerid+'&pwd='+pwdhash+'&graf='+URLEncode(txt)+'&j=1
+
+/submitnewchat.php?playerid=1249687&pwd=2d5dd05b176120aeba2134b0d416bab5&graf=%27clan%20Hiyas&j=1
+
+/clan Hiyas
+
+
+
+Response to /whois Haplo:
+{"output":"<a target=mainpane href=\"showplayer.php?who=564499\"><b style=\"color: green;\">Haplo (#564499)<\/b><\/a>, <font color=green>da-na-na-na-na-na-na-na-na, Haplo!<\/font>","msgs":[]}
+
+
+http://www.kingdomofloathing.com/newchatmessages.php?j=1&lasttime=1358278291
+Chat:
+{"msgs":[{"msg":"NO DISCO","type":"public","mid":"1358278370","who":{"name":"AssTractionHero","id":"2089792","color":"black"},"format":"0","channel":"radio","channelcolor":"green","time":"1381615342"},{"msg":"boy are you listening to the wrong show","type":"public","mid":"1358278378","who":{"name":"TechRat","id":"2153560","color":"black"},"format":"0","channel":"radio","channelcolor":"green","time":"1381615358"},{"msg":"I meant... Woot! KC &amp; the Sunshine Band!","type":"public","mid":"1358278387","who":{"name":"AssTractionHero","id":"2089792","color":"black"},"format":"0","channel":"radio","channelcolor":"green","time":"1381615367"},{"msg":"hahaha","type":"public","mid":"1358278392","who":{"name":"Omnifrog","id":"2140718","color":"black"},"format":"0","channel":"radio","channelcolor":"green","time":"1381615377"},{"msg":"<b><i><a target=mainpane href=\"showplayer.php?who=253213\"><font color=\"black\">YellowToast<\/b><\/font><\/a> waves to Tchakka<\/i>","type":"public","mid":"1358278406","who":{"name":"YellowToast","id":"253213","color":"black"},"format":"1","channel":"radio","channelcolor":"green","time":"1381615399"},{"msg":"You don't know me like Omnifrog does, TechRat. Facetiousness is the order on any given day. :P","type":"public","mid":"1358278416","who":{"name":"AssTractionHero","id":"2089792","color":"black"},"format":"0","channel":"radio","channelcolor":"green","time":"1381615410"},{"msg":"Radio KOL: ---&gt; Omni The Frog - Omnifrog - The Lovers, The Dreamers And Me - What The Frog??? ....It's Boogie Oogie Woogie Frog time! - What The Frog?? - radio.kol@gmail.com 64kbps: 19\/150 24kbps: 2\/100","type":"public","mid":"1358278434","who":{"name":"chatbot","id":"142302","color":"#0000CC"},"format":"0","channel":"radio","channelcolor":"green","time":"1381615431"},{"msg":"Face eateness!","type":"public","mid":"1358278479","who":{"name":"YellowToast","id":"253213","color":"black"},"format":"0","channel":"radio","channelcolor":"green","time":"1381615508"},{"msg":"Holy shit it's a hipster shark wearing a fedora!","type":"public","mid":"1358278506","who":{"name":"YellowToast","id":"253213","color":"black"},"format":"0","channel":"radio","channelcolor":"green","time":"1381615550"}],"last":"1358278506","delay":3000}
+
+Response to /l:
+{"output":"<font color=green>Currently listening to channels:<br>&nbsp;&nbsp;clan<br>&nbsp;&nbsp;<b>radio<\/b><br><\/font>","msgs":[]}
+
+
+
+Rollover: redirect to
+http://www.kingdomofloathing.com/maint.php
+Na rollover: redirect to
+http://www.kingdomofloathing.com/login.php
